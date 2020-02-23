@@ -1,13 +1,3 @@
-# Group 4
-
-# William Chen
-# ID: 105129115
-# Email: williamchen@mail.fresnostate.edu
-
-# Sahil Singh
-# ID: 109364430
-# Email: sahil259@mail.fresnostate.edu
-
 import random
 import numpy as np
 import matplotlib.pyplot as plt
